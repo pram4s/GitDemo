@@ -1,0 +1,57 @@
+2023-06-10 23:35:12,444 :INFO : test_form_submission :Entering Hello as First Name
+2023-06-10 23:35:14,679 :INFO : test_form_submission :Entering Name as First Name
+2023-06-10 23:35:28,300 :INFO : test_e2e :Products are loaded
+2023-06-10 23:35:28,378 :INFO : test_e2e :iphone X will be selected
+2023-06-10 23:35:28,449 :INFO : test_e2e :Samsung Note 8 will be selected
+2023-06-10 23:35:28,495 :INFO : test_e2e :Nokia Edge will be selected
+2023-06-10 23:35:28,580 :INFO : test_e2e :Blackberry will be selected
+2023-06-12 16:25:10,380 :INFO : test_form_submission :Entering Hello as First Name
+2023-06-12 16:25:12,301 :INFO : test_form_submission :Entering Name as First Name
+2023-06-12 16:25:21,319 :INFO : test_e2e :Products are loaded
+2023-06-12 16:25:21,463 :INFO : test_e2e :iphone X will be selected
+2023-06-12 16:25:21,494 :INFO : test_e2e :Samsung Note 8 will be selected
+2023-06-12 16:25:21,528 :INFO : test_e2e :Nokia Edge will be selected
+2023-06-12 16:25:21,559 :INFO : test_e2e :Blackberry will be selected
+2023-06-12 16:40:43,088 :INFO : test_form_submission :Entering Hello as First Name
+2023-06-12 16:40:53,596 :INFO : test_form_submission :Entering Name as First Name
+2023-06-12 16:41:53,299 :INFO : test_e2e :Products are loaded
+2023-06-12 16:41:54,145 :INFO : test_e2e :iphone X will be selected
+2023-06-12 16:41:54,185 :INFO : test_e2e :Samsung Note 8 will be selected
+2023-06-12 16:41:54,207 :INFO : test_e2e :Nokia Edge will be selected
+2023-06-12 16:41:54,228 :INFO : test_e2e :Blackberry will be selected
+2023-06-12 17:23:45,101 :INFO : test_form_submission :Entering Hello as First Name
+2023-06-12 17:23:49,340 :INFO : test_form_submission :Entering Name as First Name
+2023-06-12 17:24:26,376 :INFO : test_e2e :Products are loaded
+2023-06-12 17:24:27,140 :INFO : test_e2e :iphone X will be selected
+2023-06-12 17:24:27,208 :INFO : test_e2e :Samsung Note 8 will be selected
+2023-06-12 17:24:27,250 :INFO : test_e2e :Nokia Edge will be selected
+2023-06-12 17:24:27,273 :INFO : test_e2e :Blackberry will be selected
+2023-06-12 17:42:12,480 :INFO : test_form_submission :Entering Hello as First Name
+2023-06-12 17:42:24,148 :INFO : test_form_submission :Entering Name as First Name
+2023-06-12 17:43:11,885 :INFO : test_e2e :Products are loaded
+2023-06-12 17:43:12,318 :INFO : test_e2e :iphone X will be selected
+2023-06-12 17:43:12,427 :INFO : test_e2e :Samsung Note 8 will be selected
+2023-06-12 17:43:12,727 :INFO : test_e2e :Nokia Edge will be selected
+2023-06-12 17:43:12,976 :INFO : test_e2e :Blackberry will be selected
+2023-06-12 18:06:41,471 :INFO : test_form_submission :Entering Hello as First Name
+2023-06-12 18:06:43,414 :INFO : test_form_submission :Entering Name as First Name
+2023-06-12 18:07:11,112 :INFO : test_e2e :Products are loaded
+2023-06-12 18:07:11,164 :INFO : test_e2e :iphone X will be selected
+2023-06-12 18:07:11,188 :INFO : test_e2e :Samsung Note 8 will be selected
+2023-06-12 18:07:11,211 :INFO : test_e2e :Nokia Edge will be selected
+2023-06-12 18:07:11,233 :INFO : test_e2e :Blackberry will be selected
+2023-06-12 18:20:35,228 :INFO : test_form_submission :Entering Hello as First Name
+2023-06-12 18:20:46,047 :INFO : test_form_submission :Entering Name as First Name
+2023-06-12 18:21:08,377 :INFO : test_e2e :Products are loaded
+2023-06-12 18:21:08,450 :INFO : test_e2e :iphone X will be selected
+2023-06-12 18:21:08,503 :INFO : test_e2e :Samsung Note 8 will be selected
+2023-06-12 18:21:08,542 :INFO : test_e2e :Nokia Edge will be selected
+2023-06-12 18:21:08,586 :INFO : test_e2e :Blackberry will be selected
+2023-06-12 18:30:31,304 :INFO : test_form_submission :Entering Hello as First Name
+2023-06-12 18:30:33,629 :INFO : test_form_submission :Entering Name as First Name
+2023-06-12 18:30:43,527 :INFO : test_e2e :Products are loaded
+2023-06-12 18:30:43,595 :INFO : test_e2e :iphone X will be selected
+2023-06-12 18:30:43,631 :INFO : test_e2e :Samsung Note 8 will be selected
+2023-06-12 18:30:43,662 :INFO : test_e2e :Nokia Edge will be selected
+2023-06-12 18:30:43,701 :INFO : test_e2e :Blackberry will be selected
+2023-06-14 10:14:29,204 :INFO : test_form_submission :Entering Anshika as First Name
